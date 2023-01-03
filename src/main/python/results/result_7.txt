@@ -1,0 +1,1 @@
+There are 2-Count of Distinct Crash IDs where No Damaged Property was observed, Damage Level is above 4, and car avails Insurance

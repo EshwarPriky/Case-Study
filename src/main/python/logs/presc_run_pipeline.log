@@ -1,0 +1,24 @@
+"14-Dec-22 11:18:47" - root - INFO - Pipeline is started...
+"14-Dec-22 11:18:47" - root - INFO - main() is started...
+"14-Dec-22 11:18:47" - create_objects - INFO - create_spark() is started. TEST  environment is used
+"14-Dec-22 11:18:54" - create_objects - INFO - Spark Object is created...
+"14-Dec-22 11:18:54" - validations - INFO - Spark Id --><pyspark.sql.session.SparkSession object at 0x0000020377F64A10>
+"14-Dec-22 11:18:54" - validations - INFO - Spark Object is Validated
+"14-Dec-22 11:18:54" - root - INFO - Ingestion is started...
+"14-Dec-22 11:19:01" - ingestion - INFO - Charges_use.csv ingestion completed
+"14-Dec-22 11:19:02" - ingestion - INFO - Damages_use.csv ingestion completed
+"14-Dec-22 11:19:02" - ingestion - INFO - Endorse_use.csv ingestion completed
+"14-Dec-22 11:19:03" - ingestion - INFO - Primary_Person_use.csv ingestion completed
+"14-Dec-22 11:19:04" - ingestion - INFO - Restrict_use.csv ingestion completed
+"14-Dec-22 11:19:05" - ingestion - INFO - Units_use.csv ingestion completed
+"14-Dec-22 11:19:05" - root - INFO - Analysis started...
+"14-Dec-22 11:19:07" - analysis - INFO - analysis_1 completed, check results folder---> result_1
+"14-Dec-22 11:19:09" - analysis - INFO - analysis_2 completed, check results folder---> result_2
+"14-Dec-22 11:19:17" - analysis - INFO - analysis_3 completed, check results folder---> result_3
+"14-Dec-22 11:19:21" - analysis - INFO - analysis_4 completed, check results folder---> result_4
+"14-Dec-22 11:19:25" - analysis - INFO - analysis_5 completed, check results folder---> result_5
+"14-Dec-22 11:19:30" - analysis - INFO - analysis_6 completed, check results folder---> result_6
+"14-Dec-22 11:19:34" - analysis - INFO - analysis_7 completed, check results folder---> result_7
+"14-Dec-22 11:19:44" - analysis - INFO - analysis_8 completed, check results folder---> result_8
+"14-Dec-22 11:19:44" - root - INFO - Analysis Completed...
+"14-Dec-22 11:19:44" - root - INFO - Pipeline is completed...
