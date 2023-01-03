@@ -3,8 +3,7 @@ Hello All,
 This is a samll casestudy. Please find the respective files as per the below directory.
 Please run the pipeline.py to execute the pipeline.
 
-
+Main function--> src\main\python\bin\pipeline.py
 Input files --> src\main\python\staging
 Output files --> src\main\python\results
-Main function--> src\main\python\bin\pipeline.py
 Logs--> src\main\python\logs
